@@ -1,4 +1,5 @@
-﻿  main.cpp
+﻿  pch.cpp
+  main.cpp
 c:\users\sheng\source\repos\csc-134-labs\csc134_lab1a_taxescalculator\lab1_parta\main.cpp(55): warning C4305: 'initializing': truncation from 'double' to 'float'
 c:\users\sheng\source\repos\csc-134-labs\csc134_lab1a_taxescalculator\lab1_parta\main.cpp(56): warning C4305: 'initializing': truncation from 'double' to 'float'
 c:\users\sheng\source\repos\csc-134-labs\csc134_lab1a_taxescalculator\lab1_parta\main.cpp(57): warning C4305: 'initializing': truncation from 'double' to 'float'
