@@ -1,7 +1,0 @@
-﻿  pch.cpp
-  main.cpp
-c:\users\sheng\source\repos\csc.134_labs\csc132_lab1a_taxescalculator\lab1_parta\main.cpp(52): warning C4305: 'initializing': truncation from 'double' to 'float'
-c:\users\sheng\source\repos\csc.134_labs\csc132_lab1a_taxescalculator\lab1_parta\main.cpp(53): warning C4305: 'initializing': truncation from 'double' to 'float'
-c:\users\sheng\source\repos\csc.134_labs\csc132_lab1a_taxescalculator\lab1_parta\main.cpp(54): warning C4305: 'initializing': truncation from 'double' to 'float'
-c:\users\sheng\source\repos\csc.134_labs\csc132_lab1a_taxescalculator\lab1_parta\main.cpp(55): warning C4305: 'initializing': truncation from 'double' to 'float'
-  Lab1_PartA.vcxproj -> C:\Users\Sheng\source\repos\CSC.134_LABS\CSC132_Lab1A_TaxesCalculator\Debug\Lab1_PartA.exe
