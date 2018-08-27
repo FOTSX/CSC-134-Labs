@@ -20,8 +20,8 @@
 // 
 /////////////////////////////////////////////////////////////////////////////////////
 
-#include<iostream>
-#include<istream>
-#include"pch.h"
+
+#include <iostream>
+#include "pch.h"
 
 using namespace std;
