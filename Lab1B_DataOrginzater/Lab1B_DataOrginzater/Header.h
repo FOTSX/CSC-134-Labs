@@ -14,14 +14,19 @@
 // Class: header
 //                                                                   
 // Description:
-//    iostream
+//    iostream: in and out put fucntion
+//    iomanip: manipulators with parameter
+//    fstream: file in and out stream
 //    pch.h
 //    namespace std
 // 
 /////////////////////////////////////////////////////////////////////////////////////
 
 
-#include <iostream>
 #include "pch.h"
+#include <iostream>
+#include <fstream>
+#include <iomanip>
+#include <string>
 
 using namespace std;
