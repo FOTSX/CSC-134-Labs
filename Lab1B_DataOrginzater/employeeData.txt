@@ -1,3 +1,0 @@
-John Smith M 65789.87 5.5 350.0
-Sheila Green F 75992.56 6.9 400.5
-Jasmine Patel F 74300.50 6.1 250

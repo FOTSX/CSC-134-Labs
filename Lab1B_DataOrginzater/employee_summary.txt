@@ -1,3 +1,0 @@
-﻿1>------ Build started: Project: Lab1B_DataOrginzater, Configuration: Debug Win32 ------
-1>Lab1B_DataOrginzater.vcxproj -> C:\Users\Sheng\source\repos\CSC-134-Labs\Lab1B_DataOrginzater\Debug\Lab1B_DataOrginzater.exe
-========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
