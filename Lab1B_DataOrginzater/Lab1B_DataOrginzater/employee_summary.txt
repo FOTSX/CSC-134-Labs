@@ -1,4 +1,1 @@
  LAST NAME     FIRST NAME    GENDER      CURRENT SALARY        UPDATED SALARY       BONUS
- Smith              John       M         $65789.87             $69408.31            $350.00
- Green            Sheila       F         $75992.56             $81236.05            $400.50
- Patel           Jasmine       F         $74300.50             $78832.83            $250.00
