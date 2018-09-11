@@ -1,1 +1,6 @@
-﻿  Lab1_PartA.vcxproj -> C:\Users\Sheng\source\repos\CSC-134-Labs\Lab1A_TaxesCalculator\x64\Debug\Lab1_PartA.exe
+﻿  main.cpp
+c:\users\sheng\source\repos\csc-134-labs\lab1a_taxescalculator\lab1_parta\main.cpp(59): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\sheng\source\repos\csc-134-labs\lab1a_taxescalculator\lab1_parta\main.cpp(60): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\sheng\source\repos\csc-134-labs\lab1a_taxescalculator\lab1_parta\main.cpp(61): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\sheng\source\repos\csc-134-labs\lab1a_taxescalculator\lab1_parta\main.cpp(62): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Lab1_PartA.vcxproj -> C:\Users\Sheng\source\repos\CSC-134-Labs\Lab1A_TaxesCalculator\x64\Debug\Lab1_PartA.exe
