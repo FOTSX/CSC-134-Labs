@@ -17,11 +17,18 @@
 //    All preloaded functions for main function
 /////////////////////////////////////////////////////////////////////////////////////
 
+#ifndef header
+#define header
 
-#include <iostream>
-#include <iomanip>
 
 #include "pch.h"
 // #include "stdafx.h" 
 
+#include <iostream>
+#include <iomanip>
+
 using namespace std;
+
+void tuition_fx();
+
+#endif
