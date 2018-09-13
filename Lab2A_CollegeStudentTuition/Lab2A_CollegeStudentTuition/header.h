@@ -30,4 +30,4 @@ using namespace std;
 float instate_cal();
 float outstate_cal();
 
-int export(string,int,char,float);
+//void export(string,int,char,float);

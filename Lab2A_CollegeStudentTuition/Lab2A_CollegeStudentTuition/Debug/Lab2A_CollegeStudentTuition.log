@@ -1,9 +1,2 @@
-﻿  functions.cpp
-c:\users\sheng\source\repos\csc-134-labs\lab2a_collegestudenttuition\lab2a_collegestudenttuition\header.h(33): error C2059: syntax error: 'export'
-c:\users\sheng\source\repos\csc-134-labs\lab2a_collegestudenttuition\lab2a_collegestudenttuition\functions.cpp(85): error C2059: syntax error: 'export'
-c:\users\sheng\source\repos\csc-134-labs\lab2a_collegestudenttuition\lab2a_collegestudenttuition\functions.cpp(86): error C2143: syntax error: missing ';' before '{'
-c:\users\sheng\source\repos\csc-134-labs\lab2a_collegestudenttuition\lab2a_collegestudenttuition\functions.cpp(86): error C2447: '{': missing function header (old-style formal list?)
-  main.cpp
-c:\users\sheng\source\repos\csc-134-labs\lab2a_collegestudenttuition\lab2a_collegestudenttuition\header.h(33): error C2059: syntax error: 'export'
-c:\users\sheng\source\repos\csc-134-labs\lab2a_collegestudenttuition\lab2a_collegestudenttuition\main.cpp(114): error C2059: syntax error: 'export'
-  Generating Code...
+﻿  main.cpp
+  Lab2A_CollegeStudentTuition.vcxproj -> C:\Users\Sheng\source\repos\CSC-134-Labs\Lab2A_CollegeStudentTuition\Debug\Lab2A_CollegeStudentTuition.exe

@@ -81,8 +81,8 @@ float outstate_cal()
 	return total_fee;
 }
 
-
-int export(string student_name, int tuition_type, char health_plan, float total_fee)
+/*
+void export(string student_name, int tuition_type, char health_plan, float total_fee)
 {
 	ofstream outData("employee_summary.txt");
 
@@ -104,3 +104,4 @@ int export(string student_name, int tuition_type, char health_plan, float total_
 	outData.close();
 	return 0;
 }
+*/
