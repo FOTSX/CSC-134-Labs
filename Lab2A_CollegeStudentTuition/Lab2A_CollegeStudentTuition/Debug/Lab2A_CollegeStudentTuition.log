@@ -1,6 +1,9 @@
-﻿  tuition_fx.cpp
+﻿  functions.cpp
+c:\users\sheng\source\repos\csc-134-labs\lab2a_collegestudenttuition\lab2a_collegestudenttuition\header.h(33): error C2059: syntax error: 'export'
+c:\users\sheng\source\repos\csc-134-labs\lab2a_collegestudenttuition\lab2a_collegestudenttuition\functions.cpp(85): error C2059: syntax error: 'export'
+c:\users\sheng\source\repos\csc-134-labs\lab2a_collegestudenttuition\lab2a_collegestudenttuition\functions.cpp(86): error C2143: syntax error: missing ';' before '{'
+c:\users\sheng\source\repos\csc-134-labs\lab2a_collegestudenttuition\lab2a_collegestudenttuition\functions.cpp(86): error C2447: '{': missing function header (old-style formal list?)
   main.cpp
-c:\users\sheng\source\repos\csc-134-labs\lab2a_collegestudenttuition\lab2a_collegestudenttuition\main.cpp(30): error C2146: syntax error: missing ';' before identifier 'cout'
-c:\users\sheng\source\repos\csc-134-labs\lab2a_collegestudenttuition\lab2a_collegestudenttuition\main.cpp(76): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\sheng\source\repos\csc-134-labs\lab2a_collegestudenttuition\lab2a_collegestudenttuition\main.cpp(109): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sheng\source\repos\csc-134-labs\lab2a_collegestudenttuition\lab2a_collegestudenttuition\header.h(33): error C2059: syntax error: 'export'
+c:\users\sheng\source\repos\csc-134-labs\lab2a_collegestudenttuition\lab2a_collegestudenttuition\main.cpp(114): error C2059: syntax error: 'export'
   Generating Code...

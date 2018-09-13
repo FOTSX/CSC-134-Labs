@@ -17,18 +17,17 @@
 //    All preloaded functions for main function
 /////////////////////////////////////////////////////////////////////////////////////
 
-#ifndef header
-#define header
+#include "pch.h" 
 
-
-#include "pch.h"
-// #include "stdafx.h" 
-
+#include <string>
 #include <iostream>
 #include <iomanip>
+#include <fstream>
+#include <Windows.h>
 
 using namespace std;
 
-void tuition_fx();
+float instate_cal();
+float outstate_cal();
 
-#endif
+int export(string,int,char,float);
