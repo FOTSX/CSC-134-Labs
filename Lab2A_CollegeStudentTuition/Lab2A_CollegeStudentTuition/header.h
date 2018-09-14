@@ -29,5 +29,3 @@ using namespace std;
 
 float instate_cal();
 float outstate_cal();
-
-//void export(string,int,char,float);

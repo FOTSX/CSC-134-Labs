@@ -1,4 +1,4 @@
-Name: Sam SMith
-Tuition Status: In State Tuition
-Health Plan Type: E
-Total Tuition Fee: $3.4e+03
+Name: Shengkai Xu
+Tuition Status: Out State Tuition
+Health Plan Type: F
+Total Tuition Fee: $4385

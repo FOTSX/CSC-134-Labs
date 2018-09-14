@@ -80,28 +80,3 @@ float outstate_cal()
 	}
 	return total_fee;
 }
-
-/*
-void export(string student_name, int tuition_type, char health_plan, float total_fee)
-{
-	ofstream outData("employee_summary.txt");
-
-	if (!outData.is_open())
-	{
-		cout << "ERROR, output file could not be opened! \n";
-		return 1;
-	}
-	
-	string tuition_status = (tuition_type == 1) ? "In State Tuition" : "Out State Tuition";
-	
-	outData
-		<< "Name: " << student_name << "\n"
-		<< "Tuition Status: " << tuition_status << "\n"
-		<< "Health Plan Type: " << health_plan << "\n"
-		<< "Total Tuition Fee: " << tuition_type << endl;
-
-
-	outData.close();
-	return 0;
-}
-*/
