@@ -1,0 +1,14 @@
+Name: Shengkai
+Tuition Status: In State Tuition
+Health Plan Type: C
+Total Tuition Fee: $398
+
+
+
+Name: sa
+Tuition Status: Out State Tuition
+Health Plan Type: C
+Total Tuition Fee: $33573
+
+
+
