@@ -17,11 +17,15 @@
 //    All preloaded functions for main function
 /////////////////////////////////////////////////////////////////////////////////////
 
+#include "pch.h" 
 
+#include <string>
 #include <iostream>
 #include <iomanip>
-
-#include "pch.h"
-// #include "stdafx.h" 
+#include <fstream>
+#include <Windows.h>
 
 using namespace std;
+
+float instate_cal();
+float outstate_cal();

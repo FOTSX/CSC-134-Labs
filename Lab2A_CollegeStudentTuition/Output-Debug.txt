@@ -5,9 +5,7 @@
 'Lab2A_CollegeStudentTuition.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. Cannot find or open the PDB file.
 'Lab2A_CollegeStudentTuition.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. Cannot find or open the PDB file.
 'Lab2A_CollegeStudentTuition.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
-'Lab2A_CollegeStudentTuition.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\ucrtbased.dll'
-'Lab2A_CollegeStudentTuition.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
-The thread 0x63ec has exited with code 0 (0x0).
+The thread 0x57c4 has exited with code 0 (0x0).
 'Lab2A_CollegeStudentTuition.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. Cannot find or open the PDB file.
 'Lab2A_CollegeStudentTuition.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. Cannot find or open the PDB file.
 'Lab2A_CollegeStudentTuition.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. Cannot find or open the PDB file.
@@ -15,7 +13,7 @@ The thread 0x63ec has exited with code 0 (0x0).
 'Lab2A_CollegeStudentTuition.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. Cannot find or open the PDB file.
 'Lab2A_CollegeStudentTuition.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. Cannot find or open the PDB file.
 'Lab2A_CollegeStudentTuition.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. Cannot find or open the PDB file.
-The thread 0x4620 has exited with code 0 (0x0).
-The thread 0x4fa4 has exited with code 0 (0x0).
-The thread 0x2c2c has exited with code 0 (0x0).
-The program '[1176] Lab2A_CollegeStudentTuition.exe' has exited with code 0 (0x0).
+The thread 0x609c has exited with code 0 (0x0).
+The thread 0x6a4 has exited with code 0 (0x0).
+The thread 0x298 has exited with code 0 (0x0).
+The program '[21784] Lab2A_CollegeStudentTuition.exe' has exited with code 0 (0x0).

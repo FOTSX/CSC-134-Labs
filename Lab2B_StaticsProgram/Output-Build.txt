@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: Lab2B_StaticsProgram, Configuration: Debug Win32 ------
+1>main.cpp
+1>Lab2B_StaticsProgram.vcxproj -> C:\Users\Sheng\source\repos\CSC-134-Labs\Lab2B_StaticsProgram\Debug\Lab2B_StaticsProgram.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
