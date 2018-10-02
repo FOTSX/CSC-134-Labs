@@ -1,0 +1,19 @@
+﻿'Lab3B_EmployeesWeeklyGrossPay.exe' (Win32): Loaded 'C:\Users\Sheng\source\repos\CSC-134-Labs\Lab3B_EmployeesWeeklyGrossPay\Debug\Lab3B_EmployeesWeeklyGrossPay.exe'. Symbols loaded.
+'Lab3B_EmployeesWeeklyGrossPay.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Cannot find or open the PDB file.
+'Lab3B_EmployeesWeeklyGrossPay.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'Lab3B_EmployeesWeeklyGrossPay.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Cannot find or open the PDB file.
+'Lab3B_EmployeesWeeklyGrossPay.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. Cannot find or open the PDB file.
+'Lab3B_EmployeesWeeklyGrossPay.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. Cannot find or open the PDB file.
+'Lab3B_EmployeesWeeklyGrossPay.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+The thread 0x2da8 has exited with code 0 (0x0).
+'Lab3B_EmployeesWeeklyGrossPay.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. Cannot find or open the PDB file.
+'Lab3B_EmployeesWeeklyGrossPay.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. Cannot find or open the PDB file.
+'Lab3B_EmployeesWeeklyGrossPay.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. Cannot find or open the PDB file.
+'Lab3B_EmployeesWeeklyGrossPay.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. Cannot find or open the PDB file.
+'Lab3B_EmployeesWeeklyGrossPay.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. Cannot find or open the PDB file.
+'Lab3B_EmployeesWeeklyGrossPay.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. Cannot find or open the PDB file.
+'Lab3B_EmployeesWeeklyGrossPay.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. Cannot find or open the PDB file.
+The thread 0xbec has exited with code 0 (0x0).
+The thread 0x2c2c has exited with code 0 (0x0).
+The thread 0x16d4 has exited with code 0 (0x0).
+The program '[14376] Lab3B_EmployeesWeeklyGrossPay.exe' has exited with code 0 (0x0).
