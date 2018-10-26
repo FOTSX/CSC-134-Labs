@@ -21,13 +21,13 @@
 #include "pch.h"
 #include "header.h"
 
-void getRateAndHrs(int & workhrs, int& hourly_payrate)
+void getRateAndHrs(double & workhrs, double& hourly_payrate)
 {
 	cout << "Enter the number of work hours in a week: ";
-	while (true)
+	while (true) //checking vaild value
 	{
 		cin >> workhrs;
-		if (workhrs > 0)
+		if (workhrs > 0.00)
 		{
 			cout << "You entered: " << workhrs << " hour(s)\n" << endl;
 			break;
@@ -42,7 +42,7 @@ void getRateAndHrs(int & workhrs, int& hourly_payrate)
 	}
 
 	cout << "Enter the number of hourly pay rate: ";
-	while (true)
+	while (true) //checking vaild value
 	{
 		cin >> hourly_payrate;
 		if (hourly_payrate > 0)
@@ -63,10 +63,10 @@ void getRateAndHrs(int & workhrs, int& hourly_payrate)
 
 void calcPay(double& grosspay)
 {
-	int a = 0;
-	int b = 0;
-	getRateAndHrs(a, b);
+	double a = 0.00;
+	double b = 0.00;
+	getRateAndHrs(a, b); //geting data from previous functions
 	
-	grosspay = a * b;
+	grosspay = a * (b/100); //gross pay is equal (works hours X pay rate in %)
 
 }

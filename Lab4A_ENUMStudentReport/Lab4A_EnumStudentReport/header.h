@@ -1,0 +1,30 @@
+/////////////////////////////////////////////////////////////////////////////////////
+//                                                                     
+// Filename: header.h
+// Date: Oct 25, 2018
+// Programmer: Shengkai Xu
+//
+// Description:
+//    This program to generate a report based on input received from a text file.
+// 
+/////////////////////////////////////////////////////////////////////////////////////
+
+/////////////////////////////////////////////////////////////////////////////////////
+//
+// Class: header
+//                                                                   
+// Description:
+//    All preloaded functions for main function
+/////////////////////////////////////////////////////////////////////////////////////
+
+
+#include "pch.h" 
+
+#include <string>
+#include <iostream>
+#include <iomanip>
+#include <fstream>
+#include <Windows.h>
+
+using namespace std;
+

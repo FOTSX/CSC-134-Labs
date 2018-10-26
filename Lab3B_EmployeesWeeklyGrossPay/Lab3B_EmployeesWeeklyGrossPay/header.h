@@ -27,6 +27,6 @@
 
 using namespace std;
 
-void getRateAndHrs(int & workhrs, int& hourly_payrate);
+void getRateAndHrs(double& workhrs, double& hourly_payrate);
 
 void calcPay(double & grosspay);
