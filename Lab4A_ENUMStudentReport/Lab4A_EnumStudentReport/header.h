@@ -18,13 +18,21 @@
 /////////////////////////////////////////////////////////////////////////////////////
 
 
-#include "pch.h" 
-
-#include <string>
+#include "pch.h"
 #include <iostream>
-#include <iomanip>
 #include <fstream>
-#include <Windows.h>
+#include <iomanip>
+#include <string>
 
 using namespace std;
 
+namespace stdGrade
+{
+	enum letter_grade { A, A_PLUS, A_MINUS, B, B_PLUS, B_MINUS, C, C_PLUS, C_MINUS, D, D_PLUS, D_MINUS, F };
+}
+
+using namespace stdGrade;
+
+string convertToText(letter_grade grade);
+
+letter_grade deriveGrade(double average);
