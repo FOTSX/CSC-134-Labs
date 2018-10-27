@@ -20,13 +20,14 @@
 #include "pch.h"
 #include <iostream>
 #include <fstream>
+#include <iomanip>
 #include <string>
 
 using namespace std;
 
 string removePunctuations(string word);
 
-void processFile(ifstream inFile, string &word, int &wordCount, int &nonVowelCount);
+void processFile(ifstream& inFile, string &word, int &wordCount, int &nonVowelCount);
 
 void displayResult(string word, int wordCount, int nonVowelCount);
 

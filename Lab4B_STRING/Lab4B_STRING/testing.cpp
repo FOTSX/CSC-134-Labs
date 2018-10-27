@@ -59,10 +59,10 @@ string removePunctuations(string word)
 
 int getNonVowelCount(string &word)
 {
-	int count = 0;
-
 	for (int i = 0; i < word.size(); i++)
 	{
+		int redo;
+
 		switch (word.at(i))
 		{
 		case 'a':
@@ -95,11 +95,11 @@ int getNonVowelCount(string &word)
 		case 'U':
 			break;
 
-		default: count++;
+		default: 
+			return redo;
 		}
 	}
 
-	return count;
 }
 
 
@@ -114,7 +114,6 @@ void processFile(ifstream &inFile, string &word, int &wordCount, int &nonVowelCo
 		string noPunctuation = removePunctuations(curWord);
 
 		if (noPunctuation.compare(word) == 0)
-
 			wordCount++
 
 		nonVowelCount += getNonVowelCount(curWord);

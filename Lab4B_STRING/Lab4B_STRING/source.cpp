@@ -74,23 +74,60 @@ string removePunctuations(string word)
 
 void processFile(ifstream& inFile, string &word, int &wordCount, int &nonVowelCount)
 {
-	string all_words;
+	string ind_words;
 
-	while (!inFile.eof())
+	while (!inFile.eof()) //read until end of file
 	{
-		inFile >> all_words;
+		inFile >> ind_words;
 
-		removePunctuations(all_words);
+		removePunctuations(ind_words);
 
-		if (all_words == word) //all_word.compare(word) == 0
+		if (ind_words == word) //all_word.compare(word) == 0
 		{
-
+			wordCount++; //+1 counting
 		}
 
+		//get Non-Vowel words for count
+		for (int i = 0; i < int(ind_words.size()); i++)
+		{
+			int redo = 0; //redo point
+
+			switch (ind_words.at(i))
+			{
+				case 'a':
+				case 'e':
+				case 'i':
+				case 'o':
+				case 'u':
+				case 'A':
+				case 'E':
+				case 'I':
+				case 'O':
+				case 'U':
+				case '!':
+				case '.':
+				case ',':
+				case ';':
+				case '?':
+				case ':':
+				case '\'':			 
+				case '\"':
+					break;
+
+				default:
+					nonVowelCount++;
+					break;
+			}
+		}
 	}
 }
 
 void displayResult(string word, int wordCount, int nonVowelCount)
 {
-
+	cout << "\n\n" << setfill('-') << setw(20) << "\n" //section line
+	<< "\tWord: " << word << "\n"
+	<< "\tWord Count: " << wordCount << "\n"
+	<< "\tNon-Vowel Count: " << nonVowelCount << endl;
 }
+
+
