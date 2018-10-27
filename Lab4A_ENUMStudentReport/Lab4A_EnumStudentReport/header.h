@@ -14,7 +14,7 @@
 // Class: header
 //                                                                   
 // Description:
-//    All preloaded functions for main function
+//    All preloaded functions and namespace for main function
 /////////////////////////////////////////////////////////////////////////////////////
 
 

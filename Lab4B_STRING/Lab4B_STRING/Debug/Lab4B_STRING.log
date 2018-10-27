@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  main.cpp
+c:\users\sheng\source\repos\csc-134-labs\lab4b_string\lab4b_string\main.cpp(30): error C2065: 'word': undeclared identifier
+c:\users\sheng\source\repos\csc-134-labs\lab4b_string\lab4b_string\main.cpp(30): error C2065: 'wordCount': undeclared identifier
+c:\users\sheng\source\repos\csc-134-labs\lab4b_string\lab4b_string\main.cpp(30): error C2065: 'nonVowelCount': undeclared identifier
+  source.cpp
+  Generating Code...
