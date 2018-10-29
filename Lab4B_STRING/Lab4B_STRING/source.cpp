@@ -124,10 +124,11 @@ void processFile(ifstream& inFile, string &word, int &wordCount, int &nonVowelCo
 
 void displayResult(string word, int wordCount, int nonVowelCount)
 {
-	cout << "\n\n" << setfill('-') << setw(20) << "\n" //section line
-	<< "\tWord: " << word << "\n"
-	<< "\tWord Count: " << wordCount << "\n"
-	<< "\tNon-Vowel Count: " << nonVowelCount << endl;
+	cout
+	<< "\n\n" << setfill('-') << setw(20) << "\n" //section line
+	<< "Word: " << word << "\n"
+	<< "Word Count: " << wordCount << "\n"
+	<< "Non-Vowel Count: " << nonVowelCount << endl;
 }
 
 
