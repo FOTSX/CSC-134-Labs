@@ -19,14 +19,14 @@
 // 
 /////////////////////////////////////////////////////////////////////////////////////
 
-#pragma once
+//#pragma comment(lib, "windowscodecs.lib")
 #include "pch.h"
 #include "header.h"
 
 class Account
 {
 private:
-	//static int genId;
+static int genId;
 	int accountId;
 	double balance;
 	double annualInterestRate;
@@ -48,13 +48,14 @@ public:
 	// Function to set annualInterestRate based on passed parameter.
 	// Postcondition: annualInterestRate = x;
 
-	//static int getGenId();
+static int getGenId();
 	//Function to get genId.
 	//Postcondition: getId is returned.
 	
 	int getAccountId();
 	// Function to get accountId.
 	// Postcondition: accountId is returned.
+
 	double getBalance();
 	// Function to get balance.
 	// Postcondition: balance is returned.
@@ -75,7 +76,7 @@ public:
 	// Function to reduce the account's current balance by the passed parameter, but only if the balance 
 	// is greater than the passed in parameter.  If successful, return true, otherwise return false.
 	// Postcondition: if (balance > amount) balance = balance - amount and return true;
-	//				  otherwise return false;
+					// otherwise return false;
 
 	void deposit(double amount);
 	// Function to increase the account's current balance by the passed parameter.

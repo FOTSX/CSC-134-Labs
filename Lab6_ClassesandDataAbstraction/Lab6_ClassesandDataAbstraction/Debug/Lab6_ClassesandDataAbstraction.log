@@ -1,2 +1,5 @@
-﻿  AccountMain.cpp
-  Lab6_ClassesandDataAbstraction.vcxproj -> D:\Useless Projects\CSC-134-Labs\Lab6_ClassesandDataAbstraction\Debug\Lab6_ClassesandDataAbstraction.exe
+﻿  Account.cpp
+  AccountMain.cpp
+  Generating Code...
+Account.obj : error LNK2001: unresolved external symbol "private: static int Account::genId" (?genId@Account@@0HA)
+C:\Users\Sheng\source\repos\CSC-134-Labs\Lab6_ClassesandDataAbstraction\Debug\Lab6_ClassesandDataAbstraction.exe : fatal error LNK1120: 1 unresolved externals

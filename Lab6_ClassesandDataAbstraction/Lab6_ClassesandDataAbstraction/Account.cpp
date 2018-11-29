@@ -27,7 +27,7 @@ Account::Account()
 	accountId = 0;
 	balance = 100;
 	annualInterestRate = 1.5;
-	//genId = accountId;
+	genId = accountId;
 }
 
 Account::Account(int id, double bal, double interest)
@@ -35,7 +35,7 @@ Account::Account(int id, double bal, double interest)
 	accountId = id;
 	balance = bal;
 	annualInterestRate = interest;
-	//genId = accountId;
+	genId = accountId;
 }
 
 void Account::setAccountId(int x)
@@ -74,11 +74,11 @@ void Account::setInterest(double x)
 	}
 }
 
-/*int Account::getGenId()
+int Account::getGenId()
 {
 	return genId;
 }
-*/
+//*/
 
 int Account::getAccountId()
 {
